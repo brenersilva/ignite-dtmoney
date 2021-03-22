@@ -11,7 +11,7 @@ export const Container = styled.div`
     padding: 1.5rem 2rem;
     border-radius: 0.25rem;
     color: var(--text-title);
-    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.2);
 
     &:last-child {
       background: var(--green);
