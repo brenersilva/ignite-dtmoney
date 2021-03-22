@@ -23,7 +23,7 @@ export const Content = styled.div`
     height: 3rem;
     outline: none;
     transition: filter 0.2s;
-    box-shadow: 3px 3px 9px rgba(0, 0, 0, 0.3);
+    box-shadow: 3px 3px 12px rgba(0, 0, 0, 0.3);
 
     &:hover {
       filter: brightness(0.95);
